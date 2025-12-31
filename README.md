@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://www.facebook.com/masum-75">
-    <img src="banner.svg" width="100%" alt="MD. MASUM Banner" />
-  </a>
+  <img src="banner.svg" width="100%" alt="MD. MASUM Banner" />
 </div>
 <h3 align="center">Frontend Web Developer</h3>
 <br/>
