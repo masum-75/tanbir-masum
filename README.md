@@ -3,40 +3,47 @@
     <img src="banner.svg" width="100%" alt="MD. MASUM Banner" />
   </a>
 </div>
-
+<h3 align="center">Frontend Web Developer</h3>
 <br/>
 
 ## 👨‍💻 About Me
-I am a passionate **Web Developer** dedicated to building functional and visually appealing web applications. With a strong foundation in modern JavaScript frameworks, I strive to write clean, efficient, and maintainable code.
+I am a Frontend Web Developer focused on building clean and responsive user interfaces.  
+I enjoy working with modern JavaScript frameworks and real-world projects.  
+I believe in writing simple, readable, and maintainable code.
 
-- 🔭 **I’m working** - In Programming Hero.
-- 🌱 **I’m exploring** - Next.js and Advanced motion graphics for web.
-- 👯 **I’m looking** - To collaborate on open source projects.
-- 🤔 **I’m trying** - To help people learn web development.
-- ⚡ **Fun fact** - I love to make complex origami and I can speak 5 languages.
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js**
+- 🧩 Working on a **Hero Kidz Website**
+- ⚙️ Improving **React & JavaScript**
 
 ---
 
 ## 💻 Technologies that I know
 <br>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=38BDF8&lines=Frontend+Skills" />
+</h3>
 
-### Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 </p>
 
-### Backend
-<p align="center">
+
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=22C55E&lines=Backend+Skills" />
+</h3>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
-### Tools
-<p align="center">
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=F97316&lines=Tools+%26+Workflow" />
+</h3>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
-
-
----
 
 ## 📈 Current Stats
 <div align="center">
@@ -64,18 +71,16 @@ I am a passionate **Web Developer** dedicated to building functional and visuall
 
 ## 📬 Reach me out
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourid">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  <a href="https://www.facebook.com/masum-75"> 
+  <img src="images/icons/Linkedin.png" height="35"/>
   </a>
   <a href="https://www.facebook.com/masum-75">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+    <img src="images/icons/Facebook.png" height="35"/>
   </a>
-  <a href="https://twitter.com/yourid">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
+  <a href="https://twitter.com">
+    <img src="images/icons/Twitter.png" height="35"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
+  
 </p>
 
 ---
