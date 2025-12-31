@@ -52,22 +52,22 @@ I believe in writing simple, readable, and maintainable code.
           <img src="https://streak-stats.demolab.com?user=masum-75&theme=react&hide_border=true&background=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakNum=FFFFFF&currStreakLabel=FF1CF7&sideNums=00F0FF&sideLabels=00F0FF&dates=FFFFFF" alt="GitHub Streak" />
         </a>
       </td>
-      <td>
+      <!-- <td>
        <img src="https://github-readme-stats.vercel.app/api?username=masum-75&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-      </td>
+      </td> -->
     </tr>
   </table>
   
-  <br/>
+  <!-- <br/>
   
   <a href="https://app.daily.dev/masum-75">
   <img src="https://api.daily.dev/devcards/v2/default.png?type=wide" width="600" alt="Daily.dev Card" />
-</a>
+</a> -->
 </div>
 
 ---
 
-## 📬 Reach me out
+## 📬 Reach Out
 <p align="center">
   <a href="https://www.facebook.com/masum-75"> 
   <img src="images/icons/Linkedin.png" height="35"/>
@@ -81,8 +81,3 @@ I believe in writing simple, readable, and maintainable code.
   
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=60&section=footer" />
-</p>
