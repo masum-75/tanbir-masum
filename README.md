@@ -53,7 +53,7 @@ I believe in writing simple, readable, and maintainable code.
         </a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=masum-75&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=masum-75&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
       </td>
     </tr>
   </table>
@@ -61,8 +61,8 @@ I believe in writing simple, readable, and maintainable code.
   <br/>
   
   <a href="https://app.daily.dev/masum-75">
-    <img src="https://api.daily.dev/devcards/v2/default.png?type=wide" width="600" alt="Daily.dev Card" />
-  </a>
+  <img src="https://api.daily.dev/devcards/v2/default.png?type=wide" width="600" alt="Daily.dev Card" />
+</a>
 </div>
 
 ---
